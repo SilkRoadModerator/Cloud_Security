@@ -36,7 +36,7 @@ Detecting and responding to security incidents in a timely manner is critical to
 
 Understanding the shared responsibility model is essential for organizations leveraging cloud services from third-party providers. While cloud providers are responsible for securing the underlying infrastructure, customers are responsible for securing their data, applications, and configurations within the cloud environment.
 
-### Dive into #AWS #AZURE #GCP #CLOUD_PENTEST #cloud with resources on AWS, AZURE, GCP #security, #Pentest and more. ###
+### Dive into #AWS #AZURE #GCP & #CLOUD_PENTEST ###
 
 [FREE RESOURCES AWS SECURITY UPDATED](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/Free_Resources/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%80%F0%9D%90%96%F0%9D%90%92_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
 
