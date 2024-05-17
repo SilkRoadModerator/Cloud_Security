@@ -6,33 +6,33 @@
 > Cloud security refers to the set of policies, controls, technologies, and best practices designed to protect data, applications, and infrastructure hosted in cloud environments.
 > With the increasing adoption of cloud computing, ensuring the security of cloud-based resources has become paramount for organizations to safeguard sensitive information, maintain regulatory compliance, and mitigate cyber threats.
 
-> [!Key aspects of cloud security include:]
+Key aspects of cloud security include:
 
-Data Protection:
+1. Data Protection:
 
 Ensuring the confidentiality, integrity, and availability of data stored in the cloud is crucial. Encryption techniques such as data encryption at rest and in transit help protect data from unauthorized access or interception. Access controls and identity management solutions are also used to enforce granular permissions and restrict access to sensitive data.
 
-Identity and Access Management (IAM): 
+2. Identity and Access Management (IAM): 
 
 Managing user identities, authentication, and authorization is essential for maintaining the security of cloud environments. IAM solutions enable organizations to control access to cloud resources, enforce strong authentication mechanisms, and implement least privilege principles to limit user permissions based on job roles and responsibilities.
 
-Network Security:
+3. Network Security:
 
 Securing network traffic within cloud environments is critical to prevent unauthorized access and protect against network-based attacks. This includes implementing virtual private networks (VPNs), firewalls, intrusion detection and prevention systems (IDPS), and network segmentation to isolate workloads and control traffic flow.
 
-Vulnerability Management: 
+4. Vulnerability Management: 
     
 Regularly assessing and remediating vulnerabilities in cloud infrastructure, applications, and services is essential to mitigate security risks. This involves conducting vulnerability scans, patch management, and configuration audits to identify and address security weaknesses that could be exploited by attackers.
 
-Compliance and Governance: 
+5. Compliance and Governance: 
 
 Adhering to regulatory requirements, industry standards, and internal security policies is necessary to ensure compliance and accountability in cloud environments. Organizations must implement governance frameworks, security controls, and auditing mechanisms to demonstrate compliance with relevant regulations such as GDPR, HIPAA, PCI DSS, and others.
 
-Incident Response and Monitoring: 
+6. Incident Response and Monitoring: 
 
 Detecting and responding to security incidents in a timely manner is critical to minimize the impact of cyber attacks and data breaches. Cloud security solutions provide monitoring capabilities, log management, and threat detection tools to identify suspicious activities, investigate security incidents, and initiate incident response procedures as needed.
 
-Cloud Provider Security:
+7. Cloud Provider Security:
 
 Understanding the shared responsibility model is essential for organizations leveraging cloud services from third-party providers. While cloud providers are responsible for securing the underlying infrastructure, customers are responsible for securing their data, applications, and configurations within the cloud environment.
 
