@@ -10,38 +10,38 @@
 
 Data Protection:
 
-'''
 Ensuring the confidentiality, integrity, and availability of data stored in the cloud is crucial. Encryption techniques such as data encryption at rest and in transit help protect data from unauthorized access or interception. Access controls and identity management solutions are also used to enforce granular permissions and restrict access to sensitive data.
-'''
 
 Identity and Access Management (IAM): 
 
-    Managing user identities, authentication, and authorization is essential for maintaining the security of cloud environments. IAM solutions enable organizations to control access to cloud resources, enforce strong authentication mechanisms, and implement least privilege principles to limit user permissions based on job roles and responsibilities.
+Managing user identities, authentication, and authorization is essential for maintaining the security of cloud environments. IAM solutions enable organizations to control access to cloud resources, enforce strong authentication mechanisms, and implement least privilege principles to limit user permissions based on job roles and responsibilities.
 
 Network Security:
 
-    Securing network traffic within cloud environments is critical to prevent unauthorized access and protect against network-based attacks. This includes implementing virtual private networks (VPNs), firewalls, intrusion detection and prevention systems (IDPS), and network segmentation to isolate workloads and control traffic flow.
+Securing network traffic within cloud environments is critical to prevent unauthorized access and protect against network-based attacks. This includes implementing virtual private networks (VPNs), firewalls, intrusion detection and prevention systems (IDPS), and network segmentation to isolate workloads and control traffic flow.
 
 Vulnerability Management: 
     
-    Regularly assessing and remediating vulnerabilities in cloud infrastructure, applications, and services is essential to mitigate security risks. This involves conducting vulnerability scans, patch management, and configuration audits to identify and address security weaknesses that could be exploited by attackers.
+Regularly assessing and remediating vulnerabilities in cloud infrastructure, applications, and services is essential to mitigate security risks. This involves conducting vulnerability scans, patch management, and configuration audits to identify and address security weaknesses that could be exploited by attackers.
 
 Compliance and Governance: 
 
-    Adhering to regulatory requirements, industry standards, and internal security policies is necessary to ensure compliance and accountability in cloud environments. Organizations must implement governance frameworks, security controls, and auditing mechanisms to demonstrate compliance with relevant regulations such as GDPR, HIPAA, PCI DSS, and others.
+Adhering to regulatory requirements, industry standards, and internal security policies is necessary to ensure compliance and accountability in cloud environments. Organizations must implement governance frameworks, security controls, and auditing mechanisms to demonstrate compliance with relevant regulations such as GDPR, HIPAA, PCI DSS, and others.
 
 Incident Response and Monitoring: 
 
-    Detecting and responding to security incidents in a timely manner is critical to minimize the impact of cyber attacks and data breaches. Cloud security solutions provide monitoring capabilities, log management, and threat detection tools to identify suspicious activities, investigate security incidents, and initiate incident response procedures as needed.
+Detecting and responding to security incidents in a timely manner is critical to minimize the impact of cyber attacks and data breaches. Cloud security solutions provide monitoring capabilities, log management, and threat detection tools to identify suspicious activities, investigate security incidents, and initiate incident response procedures as needed.
 
 Cloud Provider Security:
 
-    Understanding the shared responsibility model is essential for organizations leveraging cloud services from third-party providers. While cloud providers are responsible for securing the underlying infrastructure, customers are responsible for securing their data, applications, and configurations within the cloud environment.
+Understanding the shared responsibility model is essential for organizations leveraging cloud services from third-party providers. While cloud providers are responsible for securing the underlying infrastructure, customers are responsible for securing their data, applications, and configurations within the cloud environment.
 
-### [𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 𝐀𝐖𝐒 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐔𝐏𝐃𝐀𝐓𝐄𝐃](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%80%F0%9D%90%96%F0%9D%90%92_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
+[FREE RESOURCES AWS SECURITY UPDATED](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%80%F0%9D%90%96%F0%9D%90%92_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
 
-### [𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 𝐀𝐙𝐔𝐑𝐄 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐔𝐏𝐃𝐀𝐓𝐄𝐃](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%80%F0%9D%90%99%F0%9D%90%94%F0%9D%90%91%F0%9D%90%84_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
+[FREE RESOURCES AZURE SECURITY UPDATED](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%80%F0%9D%90%99%F0%9D%90%94%F0%9D%90%91%F0%9D%90%84_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
 
-### [𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 𝐂𝐋𝐎𝐔𝐃 𝐏𝐄𝐍𝐓𝐄𝐒𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐃](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%83_%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92%F0%9D%90%93_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
+[FREE RESOURCES GCP SECURITY UPDATED](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%86%F0%9D%90%82%F0%9D%90%8F_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98.md)
 
-### [𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 𝐆𝐂𝐏 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%86%F0%9D%90%82%F0%9D%90%8F_%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98.md)
+[FREE RESOURCES CLOUD PENTEST UPDATED](https://github.com/SilkRoadModerator/Cloud_Security/blob/main/%F0%9D%90%85%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84_%F0%9D%90%91%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91%F0%9D%90%82%F0%9D%90%84%F0%9D%90%92_%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%83_%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92%F0%9D%90%93_%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%83%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%83.md)
+
+
