@@ -6,11 +6,13 @@
 > Cloud security refers to the set of policies, controls, technologies, and best practices designed to protect data, applications, and infrastructure hosted in cloud environments.
 > With the increasing adoption of cloud computing, ensuring the security of cloud-based resources has become paramount for organizations to safeguard sensitive information, maintain regulatory compliance, and mitigate cyber threats.
 
-> [Key aspects of cloud security include:]
+> [!Key aspects of cloud security include:]
 
 Data Protection:
 
-    Ensuring the confidentiality, integrity, and availability of data stored in the cloud is crucial. Encryption techniques such as data encryption at rest and in transit help protect data from unauthorized access or interception. Access controls and identity management solutions are also used to enforce granular permissions and restrict access to sensitive data.
+'''
+Ensuring the confidentiality, integrity, and availability of data stored in the cloud is crucial. Encryption techniques such as data encryption at rest and in transit help protect data from unauthorized access or interception. Access controls and identity management solutions are also used to enforce granular permissions and restrict access to sensitive data.
+'''
 
 Identity and Access Management (IAM): 
 
