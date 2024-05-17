@@ -2,7 +2,7 @@
 > Cloud computing refers to the delivery of computing services, including storage, processing power, and software, over the internet. Instead of owning and maintaining physical servers or hardware, users can access and use these resources on-demand from a cloud service provider.
 > Docker and Kubernetes are not cloud technologies themselves, but they are often used in conjunction with cloud computing to streamline the development, deployment, and management of applications in a scalable and efficient manner.
 
-> [Important]
+> [!Important]
 > Cloud security refers to the set of policies, controls, technologies, and best practices designed to protect data, applications, and infrastructure hosted in cloud environments.
 > With the increasing adoption of cloud computing, ensuring the security of cloud-based resources has become paramount for organizations to safeguard sensitive information, maintain regulatory compliance, and mitigate cyber threats.
 
